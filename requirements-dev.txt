@@ -4,4 +4,3 @@ mypy
 pytest
 pytest-cov
 tox
-
