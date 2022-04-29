@@ -18,7 +18,7 @@ pip install -e .
 # USAGE
 Using command line tool:
 ```
-rgb-image-viewer -p '/path/to/image.png'
+rgb_image_viewer -p '/path/to/image.png'
 ```
 
 Using python script:
